@@ -1,0 +1,6 @@
+flask 
+textblob
+pytest
+
+#Flask is our web framework
+#TextBlob is our mini-AI library and pytest helps in testing
